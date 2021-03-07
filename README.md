@@ -1,7 +1,7 @@
 # Idol Song Lyrics Generator
 <br>
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+<br>
 
 ## ❗ 프로젝트 소개
 - 목적: 세대별 아이돌 그룹 노래 가사 생성하기
