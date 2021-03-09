@@ -1,6 +1,6 @@
 # Idol Song Lyrics Generator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10I4kY_hyIdpOpuYomgWjZ2AZJJIt0wTN?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xNO25-Knl2bR6HorrH7IhJRrCuKgDa6y?usp=sharing)
 
 
 ## ❗ 프로젝트 소개
