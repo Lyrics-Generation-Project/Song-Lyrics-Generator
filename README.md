@@ -1,7 +1,6 @@
 # Idol Song Lyrics Generator
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xNO25-Knl2bR6HorrH7IhJRrCuKgDa6y?usp=sharing) 
-[![HitCount](http://hits.dwyl.com/Lyrics-Generation-Project/Song-Lyrics-Generator.svg)](http://hits.dwyl.com/Lyrics-Generation-Project/Song-Lyrics-Generator)
 
 ⬆️가사 생성 실행 코드(Open in Colab)
 
@@ -27,5 +26,6 @@
 |  4주차  | 2021.03.04 | 세대별로 GPT fine-tuning, <br> 첫 소절 넣어서 가사 생성하기 | LDA, TF-IDF 방식을 이용한 세대별 키워드 도출 | |
 |  5주차  | 2021.03.11 | 발표 | | |
 
+[![HitCount](http://hits.dwyl.com/Lyrics-Generation-Project/Song-Lyrics-Generator.svg)](http://hits.dwyl.com/Lyrics-Generation-Project/Song-Lyrics-Generator)
 
 
