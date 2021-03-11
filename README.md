@@ -1,6 +1,7 @@
 # Idol Song Lyrics Generator
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xNO25-Knl2bR6HorrH7IhJRrCuKgDa6y?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xNO25-Knl2bR6HorrH7IhJRrCuKgDa6y?usp=sharing) 
+[![HitCount](http://hits.dwyl.com/Lyrics-Generation-Project/Song-Lyrics-Generator.svg)](http://hits.dwyl.com/Lyrics-Generation-Project/Song-Lyrics-Generator)
 
 ⬆️가사 생성 실행 코드(Open in Colab)
 
@@ -10,7 +11,6 @@
 - 팀원: 금지헌, 성유지, 이지현, 최정윤 <br>
 <br>
 
-[![HitCount](http://hits.dwyl.com/Lyrics-Generation-Project/Song-Lyrics-Generator.svg)](http://hits.dwyl.com/Lyrics-Generation-Project/Song-Lyrics-Generator)
 
 ## ❕ 사용 데이터셋
 - 아이돌 그룹 음악 가사 <br>
