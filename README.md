@@ -27,7 +27,6 @@
 <br>
 
 ## ❕ 가사 생성 예시 
-
 ![1세대](https://user-images.githubusercontent.com/71932401/146671973-a4cb1162-ea6e-4653-bcec-e0c12df7b23f.jpg)
 
 ![2세대](https://user-images.githubusercontent.com/71932401/146671993-848c0e97-c2ec-496d-b54b-a843590e50c8.jpg)
