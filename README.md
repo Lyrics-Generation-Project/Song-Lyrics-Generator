@@ -9,6 +9,9 @@
 - 기간: 2021.02.18 ~ 2021.03.11
 - 팀원: 금지헌, 성유지, 이지현, 최정윤 <br>
 <br>
+![1세대](https://user-images.githubusercontent.com/71932401/146671973-a4cb1162-ea6e-4653-bcec-e0c12df7b23f.jpg)
+![2세대](https://user-images.githubusercontent.com/71932401/146671993-848c0e97-c2ec-496d-b54b-a843590e50c8.jpg)
+![3](https://user-images.githubusercontent.com/71932401/146672014-29b03012-62aa-4718-a481-58b70e117475.jpg)
 
 
 ## ❕ 사용 데이터셋
